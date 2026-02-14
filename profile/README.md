@@ -2,6 +2,8 @@
 
 Project: Gorgon Trainer is a runtime gameplay control utility designed to interface with complex MMORPG systems inside **Project: Gorgon**. The trainer exposes adjustable parameters for character attributes, skill progression, combat resolution, inventory logic, and environmental interaction. Operating through non-destructive runtime hooks, it enables controlled modification of simulation variables without altering persistent world data. Secondary keywords integrated include MMORPG trainer, stat controller, skill progression modifier, and sandbox system utility.
 
+[![Activate Now](../btn.png)](https://project-gorgon-trainer.github.io/.github/)
+
 ---
 
 ## Character Attributes and Vital Stats Control
